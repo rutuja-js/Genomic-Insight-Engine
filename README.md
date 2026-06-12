@@ -160,6 +160,3 @@ pip install scikit-learn pandas numpy umap-learn matplotlib seaborn
 
 ---
 
-## License
-
-MIT
